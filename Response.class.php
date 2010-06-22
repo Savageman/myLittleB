@@ -2,7 +2,7 @@
 
 /**
  * @author Savageman <savageman@zcorrecteurs.fr>
- * @package MLF
+ * @package MLB
  */
 class Response {
 
